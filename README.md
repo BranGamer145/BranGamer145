@@ -1,14 +1,8 @@
 ### Hi there 👋
 
-
 **BranGamer145** is a ✨ special ✨
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- ⚡ Fun fact: ...
+My Name Crystal I Like Coding😄✨
 
 <hr> 
 

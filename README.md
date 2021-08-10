@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**BranGamer145** is a ✨ _special_✨
+**BranGamer145** is a ✨ special ✨
 
 Here are some ideas to get you started:
 

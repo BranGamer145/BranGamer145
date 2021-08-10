@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**BranGamer145** is a ✨ special ✨
+**BranGamer145** *is a ✨ special*✨
 
 My Name Crystal I Like Coding😄✨
 

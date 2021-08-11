@@ -16,14 +16,16 @@ My Name Crystal I Like Coding😄✨
 
 **My Github Stats**
 <hr> 
-
 [![BranGamer145 GitHub stats](https://github-readme-stats.vercel.app/api?username=BranGamer145)](https://github.com/BranGamer145/BranGamer145)
 ![](https://github-readme-stats.vercel.app/api?username=BranGamer145&show_icons=true&theme=radical)
 
 
 **My Top Langs Stats**
 <hr>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BranGamer145&layout=compact&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BranGamer145&theme=buefy)
+
+**My Profile Tropyh**
+<hr>
+https://github-profile-trophy.vercel.app/?username=BranGamer145&row=2&column=3
 ###

@@ -5,6 +5,11 @@
 
 My Name Crystal I Like Coding😄✨
 
+:page_with_curl: I'm currently learning:
+- CSS
+- HTML
+- Javascript
+
 **My Github Stats**
 <hr> 
 

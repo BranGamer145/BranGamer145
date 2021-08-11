@@ -4,7 +4,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=BranGamer145)
 
 **BranGamer145** *is a ✨ special*✨
-
+<hr>
 My Name Crystal I Like Coding😄✨
 
 :page_with_curl: I'm currently learning:

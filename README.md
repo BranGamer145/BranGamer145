@@ -9,6 +9,8 @@ My Name Crystal I Like Coding😄✨
 <hr> 
 
 [![BranGamer145 GitHub stats](https://github-readme-stats.vercel.app/api?username=BranGamer145)](https://github.com/BranGamer145/BranGamer145)
+![](https://github-readme-stats.vercel.app/api?username=BranGamer145&show_icons=true&theme=radical)
+
 
 **My Top Langs Stats**
 <hr>

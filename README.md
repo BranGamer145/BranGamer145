@@ -11,7 +11,7 @@ My Name Crystal I Like Coding😄✨
 - CSS
 - HTML
 - Javascript
-
+<hr>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 **My Github Stats**

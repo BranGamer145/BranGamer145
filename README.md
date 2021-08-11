@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
+<p align="center">
 
 **BranGamer145** *is a ✨ special*✨
 

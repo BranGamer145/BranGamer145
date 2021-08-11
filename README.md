@@ -13,4 +13,5 @@ My Name Crystal I Like Coding😄✨
 <hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BranGamer145&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BranGamer145&theme=buefy)
 ###

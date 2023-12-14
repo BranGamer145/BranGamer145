@@ -6,9 +6,9 @@
 
 **BranGamer145** *is a ✨ special*✨
 <hr>
-My Name Crystal I Like Coding😄✨
+I Like Coding😄✨
 
-:page_with_curl: I'm currently learning:
+✈️ I'm currently learning:
 - CSS
 - HTML
 - Javascript
